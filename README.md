@@ -23,6 +23,7 @@ Here are a few of my recent projects:
 
 - LinkedIn: [Yashwadkar2121](www.linkedin.com/in/yash-wadkar-2a2114224)
 - Email: yashwadkar079@example.com
+- Mobile No. :- 9075425869
 
 ## 📈 GitHub Stats
 
